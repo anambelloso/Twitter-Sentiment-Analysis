@@ -2,7 +2,7 @@ import tweepy
 import csv
 
 # Authentication keys and tokens (replace with your actual keys)
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAMvSyAEAAAAA%2FTYlL7DovdvscaZ8kbtqMi8LeW4%3D0yVZuPW9sza7qygszZETExw8ID3pwPK3hmJArZJ3OU0MY2JU7a'
+bearer_token = '******'
 
 # Create a client for Twitter API v2
 client = tweepy.Client(bearer_token=bearer_token)
